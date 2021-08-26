@@ -1,2 +1,2 @@
 # TTSpringBoot
-https://spring.io/guides/tutorials/rest/
+https://www.baeldung.com/spring-boot-start
